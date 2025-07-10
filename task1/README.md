@@ -2,7 +2,7 @@ in this to do list app, users can add, edit, and clear tasks. The interface incl
 ![Alt text](./sc/Screenshot_2.png?raw=true "To do list")<br />
 Instructions: <br />
 1.Adding a task <br />
--Type your task in the input filed labled 'add new task...' <br />
+-Type your task in the input filed labled 'add new task...' <br /> 
 -after you wrote your task click the 'Add Task' button to add your task to the list. <br /><br />
 ![Alt text](./sc/Screenshot_3.png?raw=true "Adding a task")<br />
 2.Editing the task <br />
