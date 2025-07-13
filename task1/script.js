@@ -31,9 +31,6 @@ function addTask() {
     li.appendChild(btnContainer);
     taskList.appendChild(li);
     input.value = '';
-    if(taskList.style.height >= '80px'){
-        taskList.style.overflowY = 'auto';
-    }
     if(taskList.offsetHeight >= 450) {
         taskList.style.overflowY = 'auto';
     }
